@@ -2,9 +2,9 @@ class Person
 
   def name=(persons_name)
     @name = persons_name
-  end 
+  end
 
   def name
-    @name 
+    @name
   end
-end 
+end
